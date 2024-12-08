@@ -6,21 +6,21 @@ const projects = [
   {
     title: "Disease Prediction Using Genetic Mutation Through Big Data",
     description: "This gene mapping project visualizes the process of decoding genetic structures using advanced tools. It features a high-tech laboratory environment with holographic screens displaying genome data and DNA helix models. Scientists collaborate in the process of mapping genes and analyzing genetic information. The project emphasizes precision, innovation, and the use of cutting-edge bioinformatics techniques to advance genetic research.",
-    image: "Gene.webp",
+    image: "https://images.unsplash.com/photo-1733662535716-3cb3f4d38d3a?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     github: "https://github.com/Shanmukendar1234/Gene-Mapping-code",
     live: "#"
   },
   {
     title: "REAL ESTATE WEBSITE CREATOR",
     description: "This project is a modern, responsive real estate website built using HTML, CSS, Bootstrap, and MySQL. It showcases property listings with details like price, location, and features. The design is user-friendly, featuring an intuitive navigation bar, a search filter, and easy-to-read contact information. The website offers a seamless browsing experience, focusing on performance and usability, allowing users to find properties based on their preferences.",
-    image: "Real-estate.webp",
+    image: "https://images.unsplash.com/photo-1733662515281-e07b97287c64?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     github: "https://github.com/Shanmukendar1234/HCL-REAL-ESTATE-WEBSITE-CREATOR",
     live: "#"
   },
   {
     title: "Dry Beans Dataset Prediction",
     description: "This project uses machine learning algorithms like Random Forest and Support Vector Machine to predict dry bean species from a dataset of features. The process involves data preprocessing, model training, and testing phases to evaluate the accuracy of predictions. The goal is to build a model that accurately classifies dry beans based on their characteristics, providing valuable insights for agricultural data analysis.",
-    image: "Dry beans.webp",
+    image: "https://images.unsplash.com/photo-1733662525499-0cb83ee14b37?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     github: "https://github.com/Shanmukendar1234/DRY-BEANS-DATASET",
     live: "#"
   }

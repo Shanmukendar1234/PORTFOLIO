@@ -45,7 +45,7 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <img 
-              src="shanmuk.jpg" 
+              src="https://images.unsplash.com/photo-1733662590900-5935cbbd1dd9?q=80&w=1691&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Profile" 
               className="rounded-full w-64 h-64 md:w-90 md:h-80 object-cover mx-auto border-4 border-white shadow-lg"
             />
