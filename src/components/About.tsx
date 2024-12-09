@@ -19,10 +19,8 @@ const About = () => {
         >
           <h2 className="text-4xl font-bold mb-8">About Me</h2>
           <div className="bg-white rounded-2xl shadow-xl p-8 transform hover:scale-105 transition-transform duration-300">
-            <p className="text-lg text-gray-600 mb-6">
-              I'm a passionate Full Stack Developer with 5 years of experience in building web applications.
-              I specialize in React, Node.js, and modern web technologies. My goal is to create beautiful,
-              efficient, and user-friendly applications that solve real-world problems.
+            <p className="text-lg=center; text-gray-600 mb-6">
+            I am a passionate Java Full Stack Developer with a keen interest in building intuitive and responsive web applications. Skilled in HTML, CSS, and Java-based frameworks, I have worked on real-time projects that demonstrate my problem-solving abilities and attention to detail. As a fresher, I bring enthusiasm, adaptability, and a commitment to delivering high-quality solutions. My goal is to leverage my skills to create impactful applications that meet user and business needs. I am eager to grow and contribute to innovative teams.
             </p>
             {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
               <div className="p-4 bg-purple-50 rounded-lg">
