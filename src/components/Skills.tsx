@@ -7,25 +7,34 @@ interface Skill {
 }
 
 const skills: Skill[] = [
-  { name: "Java", level: 90 },
-  { name: "JavaScript", level: 60 },
-  { name: "HTML & CSS", level: 95 },
-  { name: "Data Structure", level: 40 },
-  { name: "Python", level: 85 },
-  { name: "SQL", level: 70 },
+  { name: "Java", level: 100 },
+  { name: "Spring Boot", level: 80 },
+  { name: "Restful APIs", level: 95 },
+  { name: "Data Structure", level: 80 },
+  { name: "Python", level: 85 }
 ];
 
 const frameworks: Skill[] = [
-  { name: "Spring Boot", level: 40 },
-  { name: "React.js", level: 60 },
-  { name: "Node.js", level: 50 },
+  { name: "JavaScript", level: 90 },
+  { name: "React.js", level: 80 },
+  { name: "Tailwind CSS", level: 85 },
+  { name: "Angular.js", level: 80 },
+  { name: "HTML5", level: 100 },
+  { name: "CSS3", level: 95 }
 ];
 
+const Databases: Skill[] = [
+  { name: "MySQL", level: 100},
+  { name: "PostgreSQL", level: 80 },
+  { name: "MongoDB", level: 80 },
+];
 const tools: Skill[] = [
-  { name: "Git", level: 85 },
+  { name: "Git", level: 100},
   { name: "VS Code", level: 100 },
   { name: "Github", level: 100 },
-  { name: "Jupyter", level: 70 },
+  { name: "Jupyter", level: 90 },
+  { name: "Docker", level: 60 },
+  { name: "Jira", level: 80 }
 ];
 
 const renderSection = (title: string, data: Skill[], inView: boolean) => (
@@ -79,8 +88,9 @@ const Skills = () => {
         >
           <h2 className="text-4xl font-bold text-center mb-12">Skills</h2>
         </motion.div>
-        {renderSection("Core Skills", skills, inView)}
-        {renderSection("Frameworks", frameworks, inView)}
+        {renderSection("BACKEND SKILLS", skills, inView)}
+        {renderSection("FRONTEND SKILLS", frameworks, inView)}
+        {renderSection("DATABASES", Databases, inView)}
         {renderSection("Tools", tools, inView)}
       </div>
     </section>

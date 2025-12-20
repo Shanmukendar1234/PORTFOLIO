@@ -28,7 +28,14 @@ const projects = [
     title: "Digital Healthcare Appointment & Reporting System",
     description: "Digital Healthcare Appointment & Reporting System is a cloud-based platform for managing patient appointments and generating reports.It enables 24/7 online booking, rescheduling, and cancellation with real-time provider availability. Automated reminders via SMS/email reduce no-shows significantly. Patient portal supports digital intake forms, history access, and secure communication.Reporting tools provide analytics on no-show rates, utilization, trends, and performance dashboards.Ensures HIPAA compliance with secure data handling and EHR integration.Improves efficiency for providers, convenience for patients, and data-driven decisions for organizations.",
     image: "https://images.unsplash.com/photo-1766214869218-c7c88fe48641?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    github: " ",
+    github: " https://github.com/Shanmukendar1234/Digital-Healthcare-Appointment-Reporting-System.git",
+    live: "#"
+  },
+  {
+    title: "Service Booking System Using Java",
+    description: "Developed a Service Booking System using Core Java and Object-Oriented Programming (OOP) concepts. Enabled user registration, login, and service booking through a structured application flow. Implemented OTP-based authentication to enhance user verification and security. Designed a secure payment module with validation and transaction confirmation. Applied high-level security measures including input validation and secure credential handling. Used OOP principles such as encapsulation, inheritance, abstraction, and polymorphism. Demonstrated strong skills in Java fundamentals, secure application design, and system logic.",
+    image: "https://images.unsplash.com/photo-1766243316025-31fa9fd8d80f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    github: "https://github.com/Shanmukendar1234/Service-Booking-System.git",
     live: "#"
   }
 
